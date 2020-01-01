@@ -1,0 +1,4 @@
+.stack-work/
+mdexec.cabal
+*~
+.*.swp
